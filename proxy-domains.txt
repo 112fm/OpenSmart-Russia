@@ -46,6 +46,12 @@ scdn.co
 soundcloud.com
 spotify.com
 t.co
+t.me
+tdesktop.com
+telegram.me
+telegram.org
+telesco.pe
+tg.dev
 theins.ru
 threads.net
 twimg.com
