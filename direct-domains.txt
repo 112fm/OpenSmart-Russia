@@ -66,6 +66,7 @@ emias.info
 ertelecom.ru
 esia.gosuslugi.ru
 exist.ru
+facct.ru
 farpost.ru
 fedresurs.ru
 film.ru
@@ -85,6 +86,7 @@ gorzdrav.spb.ru
 gossluzhba.gov.ru
 gosuslugi.ru
 government.ru
+group-ib.com
 gu-st.ru
 gu.spb.ru
 habr.com
@@ -96,7 +98,10 @@ holodilnik.ru
 invitro.ru
 irr.ru
 ivi.ru
+juicyscore.com
 kad.arbitr.ru
+kaspersky-labs.com
+kaspersky.com
 kinopoisk.ru
 kommersant.ru
 kontur.ru
@@ -253,6 +258,7 @@ vc.ru
 vernyi.ru
 vesti.ru
 vk.com
+vk.me
 vk.ru
 vkplay.ru
 vkuser.net
