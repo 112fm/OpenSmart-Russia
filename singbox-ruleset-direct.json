@@ -2,6 +2,15 @@
   "version": 2,
   "rules": [
     {
+      "domain_keyword": [
+        "ozon",
+        "threatmetrix",
+        "online-metrix",
+        "group-ib",
+        "wildberries"
+      ]
+    },
+    {
       "domain_suffix": [
         "1c.ru",
         "1tv.ru",
@@ -161,20 +170,24 @@
         "okcdn.ru",
         "okey.ru",
         "okko.tv",
+        "online-metrix.net",
         "online.sberbank.ru",
         "open.ru",
         "ozon-credit.ru",
         "ozon-dostavka.ru",
+        "ozon-st.ru",
         "ozon-tech.ru",
         "ozon.app",
         "ozon.by",
         "ozon.com",
         "ozon.dev",
+        "ozon.digital",
         "ozon.express",
         "ozon.global",
         "ozon.kz",
         "ozon.market",
         "ozon.ru",
+        "ozon.services",
         "ozon.tech",
         "ozon.travel",
         "ozoncamp.pro",
@@ -247,6 +260,7 @@
         "taxi.yandex.ru",
         "tbank.ru",
         "tele2.ru",
+        "threatmetrix.com",
         "tinkoff.ru",
         "topdetal.ru",
         "transport.mos.ru",
@@ -291,6 +305,31 @@
         "zdravcity.ru",
         "zenit.ru",
         "zzap.ru"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "178.154.128.0/18",
+        "178.237.16.0/20",
+        "185.158.112.0/22",
+        "185.16.244.0/22",
+        "185.178.208.0/22",
+        "185.215.176.0/22",
+        "185.244.28.0/22",
+        "185.32.248.0/22",
+        "185.73.192.0/22",
+        "194.186.207.0/24",
+        "194.54.14.0/24",
+        "213.180.192.0/19",
+        "217.69.128.0/20",
+        "5.45.192.0/18",
+        "77.88.0.0/18",
+        "82.202.160.0/19",
+        "87.250.224.0/19",
+        "93.158.128.0/18",
+        "95.142.192.0/20",
+        "95.213.0.0/18",
+        "95.213.128.0/19"
       ]
     }
   ]
