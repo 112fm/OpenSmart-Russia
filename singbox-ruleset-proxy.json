@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "2ip.io",
         "anthropic.com",
+        "api.ipify.org",
         "bbc.com",
         "bbci.co.uk",
         "canva.com",
@@ -26,8 +28,10 @@
         "gemini.google.com",
         "ggpht.com",
         "googlevideo.com",
+        "ifconfig.me",
         "instagram.com",
         "intel.com",
+        "ipinfo.io",
         "kinozal.tv",
         "licdn.com",
         "linkedin.com",
