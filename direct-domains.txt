@@ -40,12 +40,15 @@ citydrive.ru
 click.alfabank.ru
 cloud.mail.ru
 consultant.ru
+customs.gov.ru
 delimobil.ru
 delivery-club.ru
 detmir.ru
 dixy.ru
+dnevnik.ru
 dns-shop.ru
 docdoc.ru
+dom.gosuslugi.ru
 dom.ru
 domclick.ru
 domrfbank.ru
@@ -56,6 +59,7 @@ dzen.ru
 e.mail.ru
 eapteka.ru
 eda.yandex.ru
+egrul.nalog.ru
 eldorado.ru
 emex.ru
 emias.info
@@ -63,6 +67,7 @@ ertelecom.ru
 esia.gosuslugi.ru
 exist.ru
 farpost.ru
+fedresurs.ru
 film.ru
 foxford.ru
 fss.ru
@@ -74,11 +79,14 @@ geevisit.com
 gemotest.ru
 gibdd.ru
 globus.ru
+gnivc.ru
 goldapple.ru
+gorzdrav.spb.ru
 gossluzhba.gov.ru
 gosuslugi.ru
 government.ru
 gu-st.ru
+gu.spb.ru
 habr.com
 hcaptcha.com
 helix.ru
@@ -88,6 +96,7 @@ holodilnik.ru
 invitro.ru
 irr.ru
 ivi.ru
+kad.arbitr.ru
 kinopoisk.ru
 kommersant.ru
 kontur.ru
@@ -98,6 +107,7 @@ lamoda.ru
 lavka.yandex.ru
 lenta.com
 letoile.ru
+lknpd.nalog.ru
 lockobank.ru
 magnit.ru
 mail.ru
@@ -107,12 +117,14 @@ maps.yandex.ru
 market.yandex.ru
 megafon.ru
 megamarket.ru
+mesh.mos.ru
 metro-cc.ru
 metro.spb.ru
 mironline.ru
 moedelo.org
 monetka.ru
 more.tv
+mos-gorsud.ru
 mos.ru
 mosmetro.ru
 mts.ru
@@ -125,7 +137,9 @@ nalog.gov.ru
 nalog.ru
 netology.ru
 nordwindairlines.ru
+notariat.ru
 novikom.ru
+npd.nalog.ru
 nspk.ru
 ntv.ru
 ok.ru
@@ -143,6 +157,7 @@ pikabu.ru
 pladform.ru
 pobeda.aero
 pochtabank.ru
+pos.gosuslugi.ru
 practicum.yandex.ru
 praktikum.yandex.ru
 premier.one
@@ -156,12 +171,14 @@ rabota.ru
 raiffeisen.ru
 rbc.ru
 redwings.ru
+reestrzalogov.ru
 regard.ru
 reru.ru
 ria.ru
 rigla.ru
 rosbank.ru
 rosreestr.gov.ru
+rosreestr.ru
 rossko.ru
 rostelecom.ru
 rshb.ru
@@ -175,6 +192,7 @@ sberbank.com
 sberbank.ru
 sbis.ru
 sbp.nspk.ru
+school.mos.ru
 sfr.gov.ru
 sitimobil.ru
 skillbox.ru
@@ -185,6 +203,7 @@ sportbox.ru
 sravni.ru
 st.avto.ru
 start.ru
+sudrf.ru
 superjob.ru
 t2.ru
 tam-tam.ru
@@ -201,6 +220,7 @@ uchi.ru
 ulmart.ru
 uralsib.ru
 userapi.com
+uslugi.mosreg.ru
 utair.ru
 utkonos.ru
 vc.ru
