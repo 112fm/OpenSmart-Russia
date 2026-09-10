@@ -37,7 +37,7 @@
 
 * **Мобильные и десктопные клиенты:**
   * **Karing** (iOS, Android, macOS, Windows)
-  * **InSide** (iOS, Android, macOS, Windows)
+  * **Insy** (iOS, Android, macOS, Windows)
   * **Hiddify** (все платформы)
   * **V2rayN** / **v2rayNG** / **Nekoray**
   * **Happ** / **Streisand** / **Shadowrocket** / **Loon**
